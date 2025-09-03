@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
-- <b>Home Lab Projects(Microsoft Azure)</b>
+- <b>Home Lab Projects (Microsoft Azure)</b>
   - [Setting Up The VM]()
   - [Running Commands in Powershell]()
 - <b>osTicket</b>
