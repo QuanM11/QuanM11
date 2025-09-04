@@ -1,4 +1,4 @@
-<h1>Hi, I'm Quan! I'm working to improve my tech skills 😁. <br/></h1>
+<h1>Hi, I'm Quan! I'm working to improve my tech skills 😁 <br/></h1>
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
