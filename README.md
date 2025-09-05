@@ -6,7 +6,7 @@
   - [Setting Up The VM]()
   - [Running Commands in Powershell]()
 - <b>osTicket</b>
-  - [Working HelpDesk Tickets]()
+  - [Working HelpDesk Tickets](https://github.com/QuanM11/osTicket/blob/main/README.md)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
   - [JWipe (Disk Wiping Utility)]()
