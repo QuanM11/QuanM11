@@ -14,8 +14,9 @@
   - [FIM (File Integrity Monitor)]()
 
 
-<h2>📺 YouTube Videos</h2>
+<h2>Certifications</h2>
 
+AWS Certified Solutions Architect - Associate(href="https://www.credly.com/badges/88dd4754-9cff-4e25-a887-a53621bc5c4c/public_url")
 
 <h2> 🤳 Connect with me:</h2>
 
