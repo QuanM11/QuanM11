@@ -3,7 +3,7 @@
 <h2>👨‍💻 I.T. Projects:</h2>
 
 - <b>Home Lab Projects (Microsoft Azure)</b>
-  - [Setting Up The VM]()
+    - [Setting Up The VM](https://youtu.be/Q4cIJLrUtCo)  
   - [Running Commands in Powershell]()
 - <b>osTicket</b>
   - [Working HelpDesk Tickets](https://github.com/QuanM11/osTicket/blob/main/README.md)
