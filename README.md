@@ -4,7 +4,7 @@
 
 - <b>Home Lab Projects (Microsoft Azure)</b>
     - [Setting Up The VM](https://youtu.be/Q4cIJLrUtCo)  
-  - [Running Commands in Powershell]()
+  - [Running Commands in Powershell](https://youtu.be/GNErFS5yINI)
 - <b>osTicket</b>
   - [Working HelpDesk Tickets](https://github.com/QuanM11/osTicket/blob/main/README.md)
 - <b>PowerShell</b>
