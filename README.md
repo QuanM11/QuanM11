@@ -8,18 +8,19 @@
 - <b>osTicket</b>
   - [Working HelpDesk Tickets](https://github.com/QuanM11/osTicket/blob/main/README.md)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
-  - [JWipe (Disk Wiping Utility)]()
   - [Active Directory Bulk User Creation]()
-  - [FIM (File Integrity Monitor)]()
-
 
 <h2>Certifications</h2>
 
 - <b>Google</b>
   - [Google IT Support]() 
 
-
+- <b>ISC(2)</b>
+  - [Certified in Cybersecurity]()
+ 
+- <b>Lean Six Sigma</b>
+  - [Yellow Belt]()
+  - [Green Belt]() 
 <h2> 🤳 Connect with me:</h2>
 
 
