@@ -17,8 +17,8 @@
 - <b>ISC(2)</b>
   - [Certified in Cybersecurity](https://www.credly.com/badges/8d99acf2-4baf-49f4-87c4-b8f70f57fa96/public_url)
 - <b>Lean Six Sigma</b>
-  - [Yellow Belt](https://www.credly.com/badges/b323c72e-a223-4953-a4fa-bdb639cd729c/public_url)
-  - [Green Belt]() 
+  - [YellowBelt](https://www.credly.com/badges/b323c72e-a223-4953-a4fa-bdb639cd729c/public_url)
+  - [GreenBelt](https://www.credly.com/badges/de079db7-4839-4970-a84b-6ba695e6a628/public_url) 
 
 <h2> 🤳 Connect with me:</h2>
 
