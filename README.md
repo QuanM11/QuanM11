@@ -1,7 +1,6 @@
 <h1>Hi, I'm Quan — driven to master new technologies and make a strong impact in the tech industry. <br/></h1>
 
-![Quantavius GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanM11&show_icons=true&theme=tokyonight)
-
+[![Quantavius' GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanM11)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
