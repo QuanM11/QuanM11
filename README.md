@@ -16,6 +16,9 @@
 
 <h2>Certifications</h2>
 
+- <b>Google</b>
+  - [Google IT Support]() 
+
 
 <h2> 🤳 Connect with me:</h2>
 
