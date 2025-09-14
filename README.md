@@ -13,7 +13,7 @@
 <h2>Certifications</h2>
 
 - <b>Google</b>
-  - [Google IT Support](https://imgur.com/a/pAgvE90)  
+  - [Google IT Support](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b489b905-94c8-45fd-8ebf-cfae4050cce1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)  
 - <b>ISC(2)</b>
   - [Certified in Cybersecurity]()
 - <b>Lean Six Sigma</b>
