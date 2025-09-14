@@ -13,14 +13,13 @@
 <h2>Certifications</h2>
 
 - <b>Google</b>
-  - [Google IT Support]() 
-
+  - [Google IT Support]()  
 - <b>ISC(2)</b>
   - [Certified in Cybersecurity]()
- 
 - <b>Lean Six Sigma</b>
   - [Yellow Belt]()
   - [Green Belt]() 
+
 <h2> 🤳 Connect with me:</h2>
 
 
