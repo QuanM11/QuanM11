@@ -13,7 +13,7 @@
 <h2>Certifications</h2>
 
 - <b>Google</b>
-  - [Google IT Support]()  
+  - [Google IT Support](https://imgur.com/a/pAgvE90)  
 - <b>ISC(2)</b>
   - [Certified in Cybersecurity]()
 - <b>Lean Six Sigma</b>
